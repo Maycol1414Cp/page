@@ -1,38 +1,104 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: 'roboto-bold';
+  src: url('./assets/fonts/Roboto-Bold.ttf');
+  font-weight: 700;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: 'roboto';
+  src: url('./assets/fonts/Roboto-Regular.ttf');
+  font-weight: 400;
 }
+@font-face {
+  font-family: 'roboto';
+  src: url('./assets/fonts/Roboto-Italic.ttf');
+  font-weight: 600;
+  font-style: italic;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'roboto';
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+}
+html{
+  height: 100%;
+}
+body{
+  margin: 0;
+  background-color: #333;
+  color: #333;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  min-height: 100vh;
+
+}
+.App-header{
+  width: 100%;
+  height: auto;;
+}
+.logo{
+  padding: 0px;
+  height: 60px;
+  width: auto;
+  margin-right: 10px;
+}
+.brand{
+  font-family:'Roboto-bold';
+  letter-spacing: 4px;
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  /* padding-left: 4%; */
+  float: left;
+  height: auto;
+  width: 70%;
+
+}
+.card{
+  flex: 1 1 auto;
+  margin-bottom: 10;
+  width: 300px;
+  margin: 10% 1%;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+}
+.sections-container{
+height: 180vh;
+  background-color: #CCB59Eff;
+}
+
+.section{
+  justify-content: end;
+  float: right;
+  width: 30vh;
+  height: 100%;
+  background-color: #162D57ff;
+}
+.iconSocial{
+  margin-top: 30px;
+  font-family: 'roboto-bold';
+
+  float:right;
+  padding-right: 50px;
+}
+.ico , .ico2, .ico1{
+  height: 110px;
+  padding: 20px;
+}
+.copy{
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  display: flex;
+  padding: 10px;
+  font-family: 'Roboto-bold';
+  font-size: 4px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-footer{
+  padding: 1em 0;
+  font-size: 20%;
+  margin-top: auto;
+  color: #000;
+  background-color: #605F36ff;;
 }
