@@ -11,7 +11,7 @@ function Bar() {
           <img className='logo' src={require('../assets/images/[removal.ai]_a848ee1a-5f5e-4bcd-a396-3a1383927db4-image1_0.png')}>
           </img>
         </a>
-        <Navbar.Brand className='brand' href="/">FutbolerosClub</Navbar.Brand>
+        <Navbar.Brand className='brand' href="/gh-pages-test/">FutbolerosClub</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

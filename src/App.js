@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Bar from './components/Bar';
 import Section from './components/Section';
 import Footer from './components/Footer';
-import { BrowserRouter,Route,Routes } from 'react-router-dom';
+import { HashRouter,BrowserRouter,Route,Routes } from 'react-router-dom';
 // pages
 import Info from "./pages/Info.jsx"
 import Calendar from './pages/Calendar';
@@ -23,7 +23,7 @@ function App() {
       <div className="sections-container">
         <div className="left">
         <Routes>
-          <Route path="/gh-pages-test/" element={<Home/>}/>
+          <Route path="/gh-pages-test" element={<Home/>}/>
           <Route path="/gh-pages-test/info" element={<Info/>}/>
           <Route path="/gh-pages-test/store" element={<AStore/>}/>
           <Route path="/gh-pages-test/calendar" element={<Calendar/>}/>
