@@ -23,7 +23,7 @@ function App() {
       <div className="sections-container">
         <div className="left">
         <Routes>
-          <Route path="/gh-pages-test" element={<Home/>}/>
+          <Route path="/gh-pages-test/" element={<Home/>}/>
           <Route path="/gh-pages-test/info" element={<Info/>}/>
           <Route path="/gh-pages-test/store" element={<AStore/>}/>
           <Route path="/gh-pages-test/calendar" element={<Calendar/>}/>
