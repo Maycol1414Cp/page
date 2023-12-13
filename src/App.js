@@ -23,17 +23,17 @@ function App() {
       <div className="sections-container">
         <div className="left">
         <Routes>
-          <Route path="/" element={<Home/>}/>
-          <Route path="/info" element={<Info/>}/>
-          <Route path="/store" element={<AStore/>}/>
-          <Route path="/calendar" element={<Calendar/>}/>
-          <Route path="/histories" element={<Histories/>}/>
-          <Route path='/InfoAcademy' element={<InfoAcademy />}/>
-          <Route path='/Sponsor' element={<Sponsor />}/>
-          <Route path='/Author' element={<Author />}/>
-          <Route path='/Admision' element={<Admision />}/>
-          <Route path='/Schools' element={<Schools />}/>
-          <Route path='/applyNow' element={<Apply />}/>
+          <Route path="/gh-pages-test" element={<Home/>}/>
+          <Route path="/gh-pages-test/info" element={<Info/>}/>
+          <Route path="/gh-pages-test/store" element={<AStore/>}/>
+          <Route path="/gh-pages-test/calendar" element={<Calendar/>}/>
+          <Route path="/gh-pages-test/histories" element={<Histories/>}/>
+          <Route path='/gh-pages-test/InfoAcademy' element={<InfoAcademy />}/>
+          <Route path='/gh-pages-test/Sponsor' element={<Sponsor />}/>
+          <Route path='/gh-pages-test/Author' element={<Author />}/>
+          <Route path='/gh-pages-test/Admision' element={<Admision />}/>
+          <Route path='/gh-pages-test/Schools' element={<Schools />}/>
+          <Route path='/gh-pages-test/applyNow' element={<Apply />}/>
         </Routes>
         </div>
         <aside className="aside">
