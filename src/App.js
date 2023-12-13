@@ -23,17 +23,17 @@ function App() {
       <div className="sections-container">
         <div className="left">
         <Routes>
-          <Route path="./" element={<Home/>}/>
-          <Route path="./info" element={<Info/>}/>
-          <Route path="./store" element={<AStore/>}/>
-          <Route path="./calendar" element={<Calendar/>}/>
-          <Route path="./histories" element={<Histories/>}/>
-          <Route path='./InfoAcademy' element={<InfoAcademy />}/>
-          <Route path='./Sponsor' element={<Sponsor />}/>
-          <Route path='./Author' element={<Author />}/>
-          <Route path='./Admision' element={<Admision />}/>
-          <Route path='./Schools' element={<Schools />}/>
-          <Route path='./applyNow' element={<Apply />}/>
+          <Route path="/" element={<Home/>}/>
+          <Route path="/info" element={<Info/>}/>
+          <Route path="/store" element={<AStore/>}/>
+          <Route path="/calendar" element={<Calendar/>}/>
+          <Route path="/histories" element={<Histories/>}/>
+          <Route path='/InfoAcademy' element={<InfoAcademy />}/>
+          <Route path='/Sponsor' element={<Sponsor />}/>
+          <Route path='/Author' element={<Author />}/>
+          <Route path='/Admision' element={<Admision />}/>
+          <Route path='/Schools' element={<Schools />}/>
+          <Route path='/applyNow' element={<Apply />}/>
         </Routes>
         </div>
         <aside className="aside">
