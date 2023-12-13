@@ -15,17 +15,17 @@ function Bar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/gh-pages-test/info">Información del Equipo</Nav.Link>
-            <Nav.Link href="/gh-pages-test/calendar">Calendario</Nav.Link>
-            <Nav.Link href="/gh-pages-test/store">Tienda en Línea</Nav.Link>
-            <Nav.Link href="/gh-pages-test/histories">Momentos Historicos</Nav.Link>
+            <Nav.Link href="./info">Información del Equipo</Nav.Link>
+            <Nav.Link href="./calendar">Calendario</Nav.Link>
+            <Nav.Link href="./store">Tienda en Línea</Nav.Link>
+            <Nav.Link href="./histories">Momentos Historicos</Nav.Link>
             <NavDropdown title="Academia Juvenil" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/gh-pages-test/InfoAcademy">Informacion</NavDropdown.Item>
-              <NavDropdown.Item href="/gh-pages-test/Sponsor">Colaboraciones y Patrocinadores</NavDropdown.Item>
-              <NavDropdown.Item href="/gh-pages-test/Admision">Proceso de Selección</NavDropdown.Item>
-              <NavDropdown.Item href="/gh-pages-test/Schools">Colaboraciones con Escuelas Locales</NavDropdown.Item>
-              <NavDropdown.Item href="/gh-pages-test/ApplyNow">Inscribirse</NavDropdown.Item>
-              <NavDropdown.Item href="/gh-pages-test/Author">Autor de la web</NavDropdown.Item>
+              <NavDropdown.Item href="./InfoAcademy">Informacion</NavDropdown.Item>
+              <NavDropdown.Item href="./Sponsor">Colaboraciones y Patrocinadores</NavDropdown.Item>
+              <NavDropdown.Item href="./Admision">Proceso de Selección</NavDropdown.Item>
+              <NavDropdown.Item href="./Schools">Colaboraciones con Escuelas Locales</NavDropdown.Item>
+              <NavDropdown.Item href="./ApplyNow">Inscribirse</NavDropdown.Item>
+              <NavDropdown.Item href="./Author">Autor de la web</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
