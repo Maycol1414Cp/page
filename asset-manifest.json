@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gh-pages-test/static/css/main.a45ca9fd.css",
+    "main.js": "/gh-pages-test/static/js/main.a6ac99e4.js",
+    "static/js/787.49ca53d9.chunk.js": "/gh-pages-test/static/js/787.49ca53d9.chunk.js",
+    "static/media/working.mp4": "/gh-pages-test/static/media/working.25a3afcb2344481b4c8b.mp4",
+    "static/media/sp3.jpg": "/gh-pages-test/static/media/sp3.d253a72b104aa56c27c5.jpg",
+    "static/media/Roboto-Italic.ttf": "/gh-pages-test/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
+    "static/media/Roboto-Regular.ttf": "/gh-pages-test/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/gh-pages-test/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/[removal.ai]_a848ee1a-5f5e-4bcd-a396-3a1383927db4-image1_0.png": "/gh-pages-test/static/media/[removal.ai]_a848ee1a-5f5e-4bcd-a396-3a1383927db4-image1_0.51939fb0366057979d2c.png",
+    "static/media/Historia y Orígenes.jpg": "/gh-pages-test/static/media/Historia y Orígenes.23ee17754c8ff14b28c5.jpg",
+    "static/media/image1_0.jpg": "/gh-pages-test/static/media/image1_0.07567ffde2c462f066bb.jpg",
+    "static/media/Mision.jpg": "/gh-pages-test/static/media/Mision.5fe5e5499a2ff2c046b5.jpg",
+    "static/media/Camiseta.jpg": "/gh-pages-test/static/media/Camiseta.5b8ac29f67301ea0172a.jpg",
+    "static/media/sp1.jpg": "/gh-pages-test/static/media/sp1.e1e042218ed3622a4e68.jpg",
+    "static/media/Author.png": "/gh-pages-test/static/media/Author.106fe7e5372ec40e7540.png",
+    "static/media/instagram.png": "/gh-pages-test/static/media/instagram.b691a9313791ac3058c8.png",
+    "static/media/github.png": "/gh-pages-test/static/media/github.2daf8617f4b92d421da4.png",
+    "static/media/twitter-alt.png": "/gh-pages-test/static/media/twitter-alt.9a5d706d3e92000c389f.png",
+    "static/media/Estadio.jpg": "/gh-pages-test/static/media/Estadio.ea114f89f36861f9c38f.jpg",
+    "static/media/facebook.png": "/gh-pages-test/static/media/facebook.11847e03ada611eb2580.png",
+    "static/media/sp2.jpg": "/gh-pages-test/static/media/sp2.b9db53ff5a02ebe920e4.jpg",
+    "index.html": "/gh-pages-test/index.html",
+    "main.a45ca9fd.css.map": "/gh-pages-test/static/css/main.a45ca9fd.css.map",
+    "main.a6ac99e4.js.map": "/gh-pages-test/static/js/main.a6ac99e4.js.map",
+    "787.49ca53d9.chunk.js.map": "/gh-pages-test/static/js/787.49ca53d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45ca9fd.css",
+    "static/js/main.a6ac99e4.js"
+  ]
+}
